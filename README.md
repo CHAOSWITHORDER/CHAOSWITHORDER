@@ -17,3 +17,6 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on React as a frontend developer.
 - 🌱 I’m currently learning Go and Java.
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=akliuxingyuan)](https://github.com/anuraghazra/github-readme-stats)
+
