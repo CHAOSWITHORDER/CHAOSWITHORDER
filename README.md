@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Go and Java.
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=akliuxingyuan&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  \
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akliuxingyuan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akliuxingyuan&layout=compact&hide=html)](https://github.com/anuraghazra/github-readme-stats)
 
