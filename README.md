@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 
 <div display="inline-block">
 <img src="https://github-readme-stats.vercel.app/api?username=akliuxingyuan&show_icons=true&icon_color=0366d6&bg_color=ffffff&hide_title=true&hide=contribs" alt="akliuxingyuan's github stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akliuxingyuan&layout=compact&hide=html&card_width=299" alt="akliuxingyuan's github top Langs"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akliuxingyuan&layout=compact&hide=html" alt="akliuxingyuan's github top Langs"/>
 </div>
 
