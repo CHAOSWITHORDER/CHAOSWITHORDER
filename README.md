@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 <!--!- 🔭 I’m currently working on React as a frontend developer. -->
 - 🌱 I’m currently learning Python and Java.
 
-<img align="" display="block" src="https://github-readme-stats.vercel.app/api?username=akliuxingyuan&show_icons=true&icon_color=0366d6&bg_color=ffffff&hide_title=true&hide=contribs" alt="akliuxingyuan's github stats"/>  \
-<img align="" display="block" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akliuxingyuan&layout=compact&hide=html&card_width=299" alt="akliuxingyuan's github top Langs"/>
+<img align="" display="inline-block" src="https://github-readme-stats.vercel.app/api?username=akliuxingyuan&show_icons=true&icon_color=0366d6&bg_color=ffffff&hide_title=true&hide=contribs" alt="akliuxingyuan's github stats"/>  \
+<img align="" display="inline-block" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akliuxingyuan&layout=compact&hide=html&card_width=299" alt="akliuxingyuan's github top Langs"/>
 
