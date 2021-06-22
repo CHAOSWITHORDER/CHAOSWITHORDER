@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <!--!- 🔭 I’m currently working on React as a frontend developer. -->
-- 🌱 I’m currently learning Java.
+- 🌱 I’m currently learning Golang.
 
 <div display="inline-block">
 <img src="https://github-readme-stats.vercel.app/api?username=akliuxingyuan&show_icons=true&icon_color=0366d6&bg_color=ffffff" alt="akliuxingyuan's github stats"/>
