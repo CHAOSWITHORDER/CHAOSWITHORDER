@@ -16,10 +16,19 @@ Here are some ideas to get you started:
 -->
 
 <!--!- 🔭 I’m currently working on React as a frontend developer. -->
-- 🌱 I’m currently learning Golang.
 
-<div display="inline-block">
+<!-- <div display="inline-block">
 <img src="https://github-readme-stats.vercel.app/api?username=akliuxingyuan&show_icons=true&icon_color=0366d6&bg_color=ffffff" alt="akliuxingyuan's github stats"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akliuxingyuan&layout=compact&hide=html,css,jupyter%20notebook&langs_count=1024" alt="akliuxingyuan's github top Langs"/>
 </div>
+ -->
 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=akliuxingyuan&show_icons=true&icon_color=0366d6&bg_color=ffffff&hide_title=true" alt="akliuxingyuan's github stats"/>
+
+I'm akliuxingyuan, a student and developer in China.
+
+- 🌱 I’m currently learning Golang.
+- 🕵️‍♂️ [INTJ](https://www.16personalities.com)
+- 👨‍💻 Arch Linux + Firefox
+- 😄 Pronouns: He/Him
+- 🔑 GPG: [`79cfbfb5c6ca8297`](https://github.com/akliuxingyuan.gpg)
