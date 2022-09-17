@@ -29,6 +29,6 @@ I'm akliuxingyuan, a student and developer in China.
 
 - 🌱 I’m currently learning Golang.
 - 🕵️‍♂️ [INTJ](https://www.16personalities.com)
-- 👨‍💻 Arch Linux + Firefox
+- 👨‍💻 Arch Linux + Wayfire + Firefox
 - 😄 Pronouns: He/Him
 - 🔑 GPG: [`79cfbfb5c6ca8297`](https://github.com/akliuxingyuan.gpg)
