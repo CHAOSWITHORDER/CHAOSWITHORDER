@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 I'm akliuxingyuan, a student and developer in China.
 
-- 🌱 I’m currently learning Golang.
+- 🌱 I’m currently learning Golang and Rust.
 - 🕵️‍♂️ [INTJ](https://www.16personalities.com)
 - 👨‍💻 Arch Linux + Wayfire + Firefox
 - 😄 Pronouns: He/Him
